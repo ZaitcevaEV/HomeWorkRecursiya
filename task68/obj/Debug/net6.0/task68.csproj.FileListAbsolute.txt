@@ -1,0 +1,15 @@
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\bin\Debug\net6.0\task68.exe
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\bin\Debug\net6.0\task68.deps.json
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\bin\Debug\net6.0\task68.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\bin\Debug\net6.0\task68.pdb
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\refint\task68.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.pdb
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\homeworkitog\task68\obj\Debug\net6.0\ref\task68.dll
